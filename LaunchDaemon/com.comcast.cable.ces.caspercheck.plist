@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Label</key>
-	<string>com.company.caspercheck</string>
+	<string>com.comcast.cable.ces.caspercheck</string>
 	<key>ProgramArguments</key>
 	<array>
 		<string>sh</string>
